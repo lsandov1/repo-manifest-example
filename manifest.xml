@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com" name="github"/>
+  <default revision="master" sync-j="4"/>
+  <project name="lsandov1/meta-qcom" path="layers/meta-qcom" remote="github"/>
+</manifest>
